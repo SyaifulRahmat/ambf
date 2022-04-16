@@ -20,3 +20,9 @@
  ```
   $ cd ambf
   $ python run.py
+ ```
+#### DONASI NYA BANG:
+  $ DANA : 082384085702
+  $ TLKOMSEL : 082384085702
+  $ AXIS : 083832671044
+
