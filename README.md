@@ -21,3 +21,9 @@
   $ cd ambf
   $ python run.py
  ```
+#### DONASI NYA BANG:
+ Biar makin semangat:v
+ ```
+  $ DANA : 082384085703
+  $ AXIS : 083832671044
+ ```
